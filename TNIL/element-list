@@ -1,0 +1,13 @@
+net.tnemc.item
+net.tnemc.item.attribute
+net.tnemc.item.bukkit
+net.tnemc.item.bukkit.data
+net.tnemc.item.data
+net.tnemc.item.data.banner
+net.tnemc.item.data.firework
+net.tnemc.item.data.potion
+net.tnemc.item.providers
+net.tnemc.sponge
+net.tnemc.sponge.data
+net.tnemc.sponge.data.abs
+net.tnemc.sponge.version
